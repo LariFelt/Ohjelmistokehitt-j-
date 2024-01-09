@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\bin\Debug\net6.0\Ehtolauseita.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\bin\Debug\net6.0\Ehtolauseita.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\bin\Debug\net6.0\Ehtolauseita.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\bin\Debug\net6.0\Ehtolauseita.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\bin\Debug\net6.0\Ehtolauseita.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\refint\Ehtolauseita.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\Ehtolauseita.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehtolauseita\Ehtolauseita\obj\Debug\net6.0\ref\Ehtolauseita.dll

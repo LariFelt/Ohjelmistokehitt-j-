@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\bin\Debug\net6.0\Ehdolliset.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\bin\Debug\net6.0\Ehdolliset.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\bin\Debug\net6.0\Ehdolliset.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\bin\Debug\net6.0\Ehdolliset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\bin\Debug\net6.0\Ehdolliset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\refint\Ehdolliset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\Ehdolliset.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\Ehdolliset\Ehdolliset\obj\Debug\net6.0\ref\Ehdolliset.dll
