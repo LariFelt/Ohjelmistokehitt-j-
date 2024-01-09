@@ -1,4 +1,5 @@
-﻿// 1.
+﻿/*
+// 1.
 Console.WriteLine("Anna kaksi kokonaislukua: ");
 int eka = Int32.Parse(Console.ReadLine());
 int toka = Int32.Parse(Console.ReadLine());
@@ -141,7 +142,7 @@ else
     Console.WriteLine("Syöte virheellinen!");
 }
 
-
+*/
 // 7.
 Console.WriteLine("Syötä numero (0 - 999): ");
 int numero = Int32.Parse(Console.ReadLine());
@@ -163,7 +164,7 @@ else
         return "Nolla";
     }
 
-    string[] yksikot = { "", "yksi", "kaksi", "kolme", "neljä", "viisi", "kuusi", "seitsemän", "kahdeksan", "yhdeksän" };
+    string[] yksikot = { "", "yksi", "kaksi", "kolme", "neljä", "viisi", "kuusi", "seitsemän", "kahdeksan", "yhdeksän", "kymmenen", "yksitoista", "kaksitoista", "kolmetoista", "neljätoista", "viisitoista", "kuusitoista", "seitsemäntoista", "kahdeksantoista", "yhdeksäntoista" };
     string[] kymmenet = { "", "kymmenen", "kaksikymmentä", "kolmekymmentä", "neljäkymmentä", "viisikymmentä", "kuusikymmentä", "seitsemänkymmentä", "kahdeksankymmentä", "yhdeksänkymmentä" };
     string[] sadat = { "", "sata", "kaksisataa", "kolmesataa", "neljäsataa", "viisisataa", "kuusisataa", "seitsemänsataa", "kahdeksansataa", "yhdeksänsataa" };
 
@@ -171,6 +172,12 @@ else
     int kymmenesOsat = (numero % 100) / 10;
     int yksikkoOsat = numero % 10;
 
+
+    if (kymmenesOsat == 1)
+    {
+        yksikkoOsat += 10;
+        kymmenesOsat = 0;
+    }
     string tulos = $"{sadat[sadasOsat]}{kymmenet[kymmenesOsat]}{yksikot[yksikkoOsat]}";
 
     return tulos;
