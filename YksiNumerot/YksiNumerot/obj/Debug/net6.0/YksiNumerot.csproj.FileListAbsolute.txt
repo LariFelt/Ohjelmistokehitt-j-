@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\refint\YksiNumerot.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\YksiNumerot\YksiNumerot\obj\Debug\net6.0\ref\YksiNumerot.dll
