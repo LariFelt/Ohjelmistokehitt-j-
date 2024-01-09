@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\bin\Debug\net6.0\TokatHarjoitukset.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\bin\Debug\net6.0\TokatHarjoitukset.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\bin\Debug\net6.0\TokatHarjoitukset.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\bin\Debug\net6.0\TokatHarjoitukset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\bin\Debug\net6.0\TokatHarjoitukset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\refint\TokatHarjoitukset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\TokatHarjoitukset.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\TokatHarjoitukset\TokatHarjoitukset\obj\Debug\net6.0\ref\TokatHarjoitukset.dll
