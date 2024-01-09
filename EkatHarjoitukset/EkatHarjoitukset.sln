@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EkatHarjoitukset", "EkatHarjoitukset\EkatHarjoitukset.csproj", "{074ADD31-D2D7-4BF8-80F1-86382F278F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074ADD31-D2D7-4BF8-80F1-86382F278F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074ADD31-D2D7-4BF8-80F1-86382F278F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074ADD31-D2D7-4BF8-80F1-86382F278F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074ADD31-D2D7-4BF8-80F1-86382F278F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1219E4A-908D-4335-9BC3-7C4203A34409}
+	EndGlobalSection
+EndGlobal

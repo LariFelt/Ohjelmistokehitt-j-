@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\bin\Debug\net6.0\EkatHarjoitukset.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\bin\Debug\net6.0\EkatHarjoitukset.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\bin\Debug\net6.0\EkatHarjoitukset.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\bin\Debug\net6.0\EkatHarjoitukset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\bin\Debug\net6.0\EkatHarjoitukset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\refint\EkatHarjoitukset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\EkatHarjoitukset.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkatHarjoitukset\EkatHarjoitukset\obj\Debug\net6.0\ref\EkatHarjoitukset.dll

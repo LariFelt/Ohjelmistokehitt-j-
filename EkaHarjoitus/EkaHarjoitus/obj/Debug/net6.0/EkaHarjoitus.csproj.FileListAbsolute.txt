@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\bin\Debug\net6.0\EkaHarjoitus.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\bin\Debug\net6.0\EkaHarjoitus.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\bin\Debug\net6.0\EkaHarjoitus.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\bin\Debug\net6.0\EkaHarjoitus.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\bin\Debug\net6.0\EkaHarjoitus.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\refint\EkaHarjoitus.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\EkaHarjoitus.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\EkaHarjoitus\EkaHarjoitus\obj\Debug\net6.0\ref\EkaHarjoitus.dll
