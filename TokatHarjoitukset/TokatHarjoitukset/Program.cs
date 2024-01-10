@@ -112,8 +112,8 @@ if (uuno >= 1 && uuno <= 10)
 
     for (int i = 1; i <= 10; i++)
     {
-        int tulo = uuno * i;
-        Console.WriteLine($"{uuno} x {i} = {tulo}");
+        int tulo1 = uuno * i;
+        Console.WriteLine($"{uuno} x {i} = {tulo1}");
     }
 }
 else
