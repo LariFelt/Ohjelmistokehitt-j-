@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\bin\Debug\net6.0\LumoakatemiaPerus.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\bin\Debug\net6.0\LumoakatemiaPerus.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\bin\Debug\net6.0\LumoakatemiaPerus.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\bin\Debug\net6.0\LumoakatemiaPerus.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\bin\Debug\net6.0\LumoakatemiaPerus.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\refint\LumoakatemiaPerus.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\LumoakatemiaPerus.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaPerus\LumoakatemiaPerus\obj\Debug\net6.0\ref\LumoakatemiaPerus.dll
