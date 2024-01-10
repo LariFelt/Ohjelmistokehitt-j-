@@ -1,0 +1,15 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\bin\Debug\net6.0\LumoakatemiaIFelse.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\bin\Debug\net6.0\LumoakatemiaIFelse.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\bin\Debug\net6.0\LumoakatemiaIFelse.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\bin\Debug\net6.0\LumoakatemiaIFelse.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\bin\Debug\net6.0\LumoakatemiaIFelse.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\refint\LumoakatemiaIFelse.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\LumoakatemiaIFelse.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehitt-j-\LumoakatemiaIFelse\LumoakatemiaIFelse\obj\Debug\net6.0\ref\LumoakatemiaIFelse.dll
