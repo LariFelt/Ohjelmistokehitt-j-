@@ -1,0 +1,16 @@
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\bin\Debug\net6.0-windows\GraphHarjoitus2.exe
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\bin\Debug\net6.0-windows\GraphHarjoitus2.deps.json
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\bin\Debug\net6.0-windows\GraphHarjoitus2.runtimeconfig.json
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\bin\Debug\net6.0-windows\GraphHarjoitus2.dll
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\bin\Debug\net6.0-windows\GraphHarjoitus2.pdb
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.Harjoitus2.resources
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.csproj.GenerateResource.cache
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.AssemblyInfoInputs.cache
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.AssemblyInfo.cs
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.dll
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\refint\GraphHarjoitus2.dll
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.pdb
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\GraphHarjoitus2.genruntimeconfig.cache
+C:\Users\35840\source\repos\GraphHarjoitus2\GraphHarjoitus2\obj\Debug\net6.0-windows\ref\GraphHarjoitus2.dll
