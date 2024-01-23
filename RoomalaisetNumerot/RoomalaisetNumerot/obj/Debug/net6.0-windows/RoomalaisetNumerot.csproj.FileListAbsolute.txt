@@ -1,0 +1,16 @@
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.exe
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.deps.json
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.runtimeconfig.json
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\net6.0-windows\RoomalaisetNumerot.pdb
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.RoomalaisiksiForm.resources
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.csproj.GenerateResource.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.AssemblyInfoInputs.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.AssemblyInfo.cs
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.csproj.CoreCompileInputs.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\refint\RoomalaisetNumerot.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.pdb
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\RoomalaisetNumerot.genruntimeconfig.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\net6.0-windows\ref\RoomalaisetNumerot.dll

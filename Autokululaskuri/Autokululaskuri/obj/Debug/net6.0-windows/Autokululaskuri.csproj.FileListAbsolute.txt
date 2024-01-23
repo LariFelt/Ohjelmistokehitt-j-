@@ -1,0 +1,16 @@
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.exe
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.deps.json
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.runtimeconfig.json
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\bin\Debug\net6.0-windows\Autokululaskuri.pdb
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.KustannusForm.resources
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.AssemblyInfoInputs.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.AssemblyInfo.cs
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\refint\Autokululaskuri.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.pdb
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\Autokululaskuri.genruntimeconfig.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\Autokululaskuri\Autokululaskuri\obj\Debug\net6.0-windows\ref\Autokululaskuri.dll
