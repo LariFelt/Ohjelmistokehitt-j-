@@ -1,0 +1,17 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\net6.0-windows\Paivakirja.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\net6.0-windows\Paivakirja.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\net6.0-windows\Paivakirja.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\net6.0-windows\Paivakirja.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\bin\Debug\net6.0-windows\Paivakirja.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.PaivakirjaForm.resources
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.csproj.GenerateResource.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\refint\Paivakirja.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\Paivakirja.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\Paivakirja\Paivakirja\obj\Debug\net6.0-windows\ref\Paivakirja.dll
