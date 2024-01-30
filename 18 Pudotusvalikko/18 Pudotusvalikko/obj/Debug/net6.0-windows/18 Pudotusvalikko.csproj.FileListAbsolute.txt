@@ -1,0 +1,17 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\_18_Pudotusvalikko.AvainhenkilotForm.resources
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.csproj.GenerateResource.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\bin\Debug\net6.0-windows\18 Pudotusvalikko.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\bin\Debug\net6.0-windows\18 Pudotusvalikko.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\bin\Debug\net6.0-windows\18 Pudotusvalikko.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\bin\Debug\net6.0-windows\18 Pudotusvalikko.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\bin\Debug\net6.0-windows\18 Pudotusvalikko.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\refint\18 Pudotusvalikko.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\18 Pudotusvalikko.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\18 Pudotusvalikko\18 Pudotusvalikko\obj\Debug\net6.0-windows\ref\18 Pudotusvalikko.dll
