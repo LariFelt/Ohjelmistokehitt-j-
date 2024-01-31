@@ -1,0 +1,17 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\bin\Debug\net6.0-windows\16 Ajastin.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\bin\Debug\net6.0-windows\16 Ajastin.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\bin\Debug\net6.0-windows\16 Ajastin.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\bin\Debug\net6.0-windows\16 Ajastin.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\bin\Debug\net6.0-windows\16 Ajastin.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\_16_Ajastin.ajastinForm.resources
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.csproj.GenerateResource.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\refint\16 Ajastin.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\16 Ajastin.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\16 Ajastin\16 Ajastin\obj\Debug\net6.0-windows\ref\16 Ajastin.dll

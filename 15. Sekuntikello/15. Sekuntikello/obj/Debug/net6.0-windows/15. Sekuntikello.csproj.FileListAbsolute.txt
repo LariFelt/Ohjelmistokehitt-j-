@@ -1,0 +1,17 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\bin\Debug\net6.0-windows\15. Sekuntikello.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\bin\Debug\net6.0-windows\15. Sekuntikello.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\bin\Debug\net6.0-windows\15. Sekuntikello.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\bin\Debug\net6.0-windows\15. Sekuntikello.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\bin\Debug\net6.0-windows\15. Sekuntikello.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\_15._Sekuntikello.SekuntikelloForm.resources
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.csproj.GenerateResource.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\refint\15. Sekuntikello.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\15. Sekuntikello.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\15. Sekuntikello\15. Sekuntikello\obj\Debug\net6.0-windows\ref\15. Sekuntikello.dll
