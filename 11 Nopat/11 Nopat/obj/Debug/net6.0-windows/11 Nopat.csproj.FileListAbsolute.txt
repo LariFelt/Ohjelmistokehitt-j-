@@ -1,0 +1,18 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\bin\Debug\net6.0-windows\11 Nopat.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\bin\Debug\net6.0-windows\11 Nopat.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\bin\Debug\net6.0-windows\11 Nopat.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\bin\Debug\net6.0-windows\11 Nopat.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\bin\Debug\net6.0-windows\11 Nopat.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\_11_Nopat.Form1.resources
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\_11_Nopat.Properties.Resources.resources
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.csproj.GenerateResource.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\refint\11 Nopat.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\11 Nopat.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\11 Nopat\11 Nopat\obj\Debug\net6.0-windows\ref\11 Nopat.dll

@@ -1,0 +1,17 @@
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\bin\Debug\net6.0-windows\12 Kysymykset.exe
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\bin\Debug\net6.0-windows\12 Kysymykset.deps.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\bin\Debug\net6.0-windows\12 Kysymykset.runtimeconfig.json
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\bin\Debug\net6.0-windows\12 Kysymykset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\bin\Debug\net6.0-windows\12 Kysymykset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.csproj.AssemblyReference.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\_12_Kysymykset.Form1.resources
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.csproj.GenerateResource.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.AssemblyInfoInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.AssemblyInfo.cs
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.csproj.CoreCompileInputs.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\refint\12 Kysymykset.dll
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.pdb
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\12 Kysymykset.genruntimeconfig.cache
+C:\Users\lari.felt\source\repos\Ohjelmistokehittaja\12 Kysymykset\12 Kysymykset\obj\Debug\net6.0-windows\ref\12 Kysymykset.dll
