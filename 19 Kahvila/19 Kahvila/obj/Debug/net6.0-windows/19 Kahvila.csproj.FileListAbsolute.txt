@@ -1,0 +1,17 @@
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\bin\Debug\net6.0-windows\19 Kahvila.exe
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\bin\Debug\net6.0-windows\19 Kahvila.deps.json
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\bin\Debug\net6.0-windows\19 Kahvila.runtimeconfig.json
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\bin\Debug\net6.0-windows\19 Kahvila.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\bin\Debug\net6.0-windows\19 Kahvila.pdb
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\_19_Kahvila.ruokalistaForm.resources
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\_19_Kahvila.Properties.Resources.resources
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.csproj.GenerateResource.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.AssemblyInfoInputs.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.AssemblyInfo.cs
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.csproj.CoreCompileInputs.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\refint\19 Kahvila.dll
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.pdb
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\19 Kahvila.genruntimeconfig.cache
+C:\Users\35840\source\repos\Ohjelmistokehittaja\19 Kahvila\19 Kahvila\obj\Debug\net6.0-windows\ref\19 Kahvila.dll
