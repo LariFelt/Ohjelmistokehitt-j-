@@ -19,12 +19,11 @@ namespace PizzaTilaus
 
         private void takasBT_Click(object sender, EventArgs e)
         {
-            {
             Form tilaus = new TilausForm();
             tilaus.Show();
             this.Hide();
 
         }
-        }
+        
     }
 }
