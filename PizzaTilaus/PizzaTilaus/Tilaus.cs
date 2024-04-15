@@ -35,7 +35,7 @@ namespace PizzaTilaus
         {
 
             InitializeComponent();
-            pizzaKokoCB.SelectedIndex = 0; // Asettaa "Small" oletusarvoksi
+            pizzaKokoCB.SelectedIndex = 0;
 
             foreach (Control control in pienijuomaGB.Controls)
             {
@@ -103,13 +103,11 @@ namespace PizzaTilaus
         }
         private void PienijuomaCB_CheckedChanged(object sender, EventArgs e)
         {
-            // Päivitä summa
             Summa = GetPizzaKokoHinta() + GetPienijuomaHinta() + GetIsojuomaHinta();
         }
 
         private void isojuomaCB_CheckedChanged(object sender, EventArgs e)
         {
-            // Päivitä summaTB
             Summa = GetPizzaKokoHinta() + GetPienijuomaHinta() + GetIsojuomaHinta();
         }
 
@@ -128,17 +126,10 @@ namespace PizzaTilaus
                 }
             }
 
-            // Päivitä summa
             Summa = count + GetPizzaKokoHinta() + GetPienijuomaHinta() + GetIsojuomaHinta();
         }
 
 
-        private void kassaBT_Click(object sender, EventArgs e)
-        {
-            Form Kassa = new kassaForm();
-            Kassa.Show();
-            this.Hide();
-        }
 
         private void tyhjennaBT_Click(object sender, EventArgs e)
         {
@@ -167,6 +158,55 @@ namespace PizzaTilaus
             if (pizzaKokoCB.SelectedIndex == 0)
             {
                 pizzaKokoCB.Text = "Small";
+            }
+        }
+
+        private void kkCB_CheckedChanged(object sender, EventArgs e)
+        {
+            if (kkCB.Checked)
+            {
+                Summa += 5.00;
+                ttGB.Visible = true;
+            }
+            else
+            {
+                Summa -= 5.00;
+                ttGB.Visible = false;
+            }
+        }
+
+        private void tilausBT_Click(object sender, EventArgs e)
+        {
+            if (kkCB.Checked)
+            {
+                // Hae osoitetiedot ttBG:stä
+                string katu = katuTB.Text;
+                string ptp = ptpTB.Text;
+                string pnro = pnroTB.Text;
+
+                // Laske toimitusaika (30 minuuttia)
+                TimeSpan toimitusaika = TimeSpan.FromMinutes(30);
+
+                // Luo ilmoitusteksti
+                string ilmoitus = $"Kiitos tilauksestasi!\n" +
+                                  $"Tilaus toimitetaan osoitteeseen:\n" +
+                                  $"{katu} {ptp} {pnro}\n" +
+                                  $"Toimitusaika: noin {toimitusaika.TotalMinutes} minuuttia";
+
+                // Näytä ilmoitus
+                MessageBox.Show(ilmoitus, "Tilaus vahvistettu", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                // Laske noutoaika (20 minuuttia)
+                TimeSpan noutoaika = TimeSpan.FromMinutes(20);
+
+                // Luo ilmoitusteksti
+                string ilmoitus = $"Kiitos tilauksestasi!\n" +
+                                  $"Tilauksesi on noudettavissa noin {noutoaika.TotalMinutes} minuutin kuluttua";
+
+                // Näytä ilmoitus
+                MessageBox.Show(ilmoitus, "Tilaus vahvistettu", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
     }

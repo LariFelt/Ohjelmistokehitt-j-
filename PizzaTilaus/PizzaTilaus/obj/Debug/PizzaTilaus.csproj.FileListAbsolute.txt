@@ -2,7 +2,6 @@ C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\bin\Debu
 C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\bin\Debug\PizzaTilaus.exe.config
 C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\obj\Debug\PizzaTilaus.csproj.AssemblyReference.cache
 C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\obj\Debug\PizzaTilaus.Form1.resources
-C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\obj\Debug\PizzaTilaus.kassaForm.resources
 C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\obj\Debug\PizzaTilaus.Properties.Resources.resources
 C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\obj\Debug\PizzaTilaus.TilausForm.resources
 C:\Users\35840\source\repos\Ohjelmistokehittaja\PizzaTilaus\PizzaTilaus\obj\Debug\PizzaTilaus.csproj.GenerateResource.cache

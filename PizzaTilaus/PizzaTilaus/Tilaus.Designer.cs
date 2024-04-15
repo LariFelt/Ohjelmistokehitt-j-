@@ -69,16 +69,30 @@
             this.pieniupCB = new System.Windows.Forms.CheckBox();
             this.pienifantaCB = new System.Windows.Forms.CheckBox();
             this.pienivesiCB = new System.Windows.Forms.CheckBox();
-            this.kassaBT = new System.Windows.Forms.Button();
+            this.tilausBT = new System.Windows.Forms.Button();
             this.poistuBT = new System.Windows.Forms.Button();
             this.tyhjennaBT = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.summaTB = new System.Windows.Forms.TextBox();
+            this.ttGB = new System.Windows.Forms.GroupBox();
+            this.ptpTB = new System.Windows.Forms.TextBox();
+            this.pnroTB = new System.Windows.Forms.TextBox();
+            this.katuTB = new System.Windows.Forms.TextBox();
+            this.nimiLB = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.kkCB = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.kokoGB.SuspendLayout();
             this.tayteGB.SuspendLayout();
             this.juomaGB.SuspendLayout();
             this.isojuomaGB.SuspendLayout();
             this.pienijuomaGB.SuspendLayout();
+            this.ttGB.SuspendLayout();
             this.SuspendLayout();
             // 
             // kokoGB
@@ -601,21 +615,21 @@
             this.pienivesiCB.Text = "Lähdevesi ";
             this.pienivesiCB.UseVisualStyleBackColor = true;
             // 
-            // kassaBT
+            // tilausBT
             // 
-            this.kassaBT.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.kassaBT.Location = new System.Drawing.Point(42, 414);
-            this.kassaBT.Name = "kassaBT";
-            this.kassaBT.Size = new System.Drawing.Size(93, 32);
-            this.kassaBT.TabIndex = 3;
-            this.kassaBT.Text = "Kassalle";
-            this.kassaBT.UseVisualStyleBackColor = true;
-            this.kassaBT.Click += new System.EventHandler(this.kassaBT_Click);
+            this.tilausBT.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tilausBT.Location = new System.Drawing.Point(29, 530);
+            this.tilausBT.Name = "tilausBT";
+            this.tilausBT.Size = new System.Drawing.Size(93, 32);
+            this.tilausBT.TabIndex = 3;
+            this.tilausBT.Text = "Tilaa";
+            this.tilausBT.UseVisualStyleBackColor = true;
+            this.tilausBT.Click += new System.EventHandler(this.tilausBT_Click);
             // 
             // poistuBT
             // 
             this.poistuBT.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.poistuBT.Location = new System.Drawing.Point(252, 414);
+            this.poistuBT.Location = new System.Drawing.Point(234, 530);
             this.poistuBT.Name = "poistuBT";
             this.poistuBT.Size = new System.Drawing.Size(93, 32);
             this.poistuBT.TabIndex = 4;
@@ -626,7 +640,7 @@
             // tyhjennaBT
             // 
             this.tyhjennaBT.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tyhjennaBT.Location = new System.Drawing.Point(147, 414);
+            this.tyhjennaBT.Location = new System.Drawing.Point(130, 530);
             this.tyhjennaBT.Name = "tyhjennaBT";
             this.tyhjennaBT.Size = new System.Drawing.Size(93, 32);
             this.tyhjennaBT.TabIndex = 5;
@@ -638,7 +652,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(39, 356);
+            this.label1.Location = new System.Drawing.Point(29, 493);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(79, 16);
             this.label1.TabIndex = 6;
@@ -647,28 +661,159 @@
             // summaTB
             // 
             this.summaTB.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.summaTB.Location = new System.Drawing.Point(125, 353);
+            this.summaTB.Location = new System.Drawing.Point(120, 490);
             this.summaTB.Name = "summaTB";
             this.summaTB.Size = new System.Drawing.Size(80, 26);
             this.summaTB.TabIndex = 7;
             this.summaTB.Text = "0.00€";
+            // 
+            // ttGB
+            // 
+            this.ttGB.Controls.Add(this.ptpTB);
+            this.ttGB.Controls.Add(this.pnroTB);
+            this.ttGB.Controls.Add(this.katuTB);
+            this.ttGB.Controls.Add(this.nimiLB);
+            this.ttGB.Controls.Add(this.label5);
+            this.ttGB.Controls.Add(this.label6);
+            this.ttGB.Controls.Add(this.label4);
+            this.ttGB.Controls.Add(this.label3);
+            this.ttGB.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ttGB.Location = new System.Drawing.Point(416, 351);
+            this.ttGB.Name = "ttGB";
+            this.ttGB.Size = new System.Drawing.Size(362, 165);
+            this.ttGB.TabIndex = 8;
+            this.ttGB.TabStop = false;
+            this.ttGB.Text = "Toimitustiedot";
+            this.ttGB.Visible = false;
+            // 
+            // ptpTB
+            // 
+            this.ptpTB.Location = new System.Drawing.Point(158, 117);
+            this.ptpTB.Name = "ptpTB";
+            this.ptpTB.Size = new System.Drawing.Size(182, 26);
+            this.ptpTB.TabIndex = 7;
+            // 
+            // pnroTB
+            // 
+            this.pnroTB.Location = new System.Drawing.Point(158, 88);
+            this.pnroTB.Name = "pnroTB";
+            this.pnroTB.Size = new System.Drawing.Size(182, 26);
+            this.pnroTB.TabIndex = 6;
+            // 
+            // katuTB
+            // 
+            this.katuTB.Location = new System.Drawing.Point(158, 57);
+            this.katuTB.Name = "katuTB";
+            this.katuTB.Size = new System.Drawing.Size(182, 26);
+            this.katuTB.TabIndex = 5;
+            // 
+            // nimiLB
+            // 
+            this.nimiLB.Location = new System.Drawing.Point(158, 25);
+            this.nimiLB.Name = "nimiLB";
+            this.nimiLB.Size = new System.Drawing.Size(182, 26);
+            this.nimiLB.TabIndex = 4;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(19, 120);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(133, 16);
+            this.label5.TabIndex = 3;
+            this.label5.Text = "Postitoimipaikka:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(19, 91);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(102, 16);
+            this.label6.TabIndex = 2;
+            this.label6.Text = "Postinumero:";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(19, 62);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(90, 16);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Katuosoite:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(19, 35);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(48, 16);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Nimi:";
+            // 
+            // kkCB
+            // 
+            this.kkCB.AutoSize = true;
+            this.kkCB.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.kkCB.Location = new System.Drawing.Point(29, 372);
+            this.kkCB.Name = "kkCB";
+            this.kkCB.Size = new System.Drawing.Size(162, 20);
+            this.kkCB.TabIndex = 0;
+            this.kkCB.Text = "Kotiinkuljetus +5€";
+            this.kkCB.UseVisualStyleBackColor = true;
+            this.kkCB.CheckedChanged += new System.EventHandler(this.kkCB_CheckedChanged);
+            // 
+            // checkBox2
+            // 
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkBox2.Location = new System.Drawing.Point(29, 398);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(160, 20);
+            this.checkBox2.TabIndex = 1;
+            this.checkBox2.Text = "Nouto ravintolasta";
+            this.checkBox2.UseVisualStyleBackColor = true;
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "Käteinen",
+            "Maksu kortilla"});
+            this.comboBox1.Location = new System.Drawing.Point(120, 442);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(163, 21);
+            this.comboBox1.TabIndex = 9;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Mongolian Baiti", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(29, 442);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(85, 16);
+            this.label2.TabIndex = 10;
+            this.label2.Text = "Maksutapa";
             // 
             // TilausForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gold;
-            this.ClientSize = new System.Drawing.Size(801, 478);
+            this.ClientSize = new System.Drawing.Size(804, 589);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.checkBox2);
+            this.Controls.Add(this.ttGB);
+            this.Controls.Add(this.kkCB);
             this.Controls.Add(this.summaTB);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tyhjennaBT);
             this.Controls.Add(this.poistuBT);
-            this.Controls.Add(this.kassaBT);
+            this.Controls.Add(this.tilausBT);
             this.Controls.Add(this.juomaGB);
             this.Controls.Add(this.tayteGB);
             this.Controls.Add(this.kokoGB);
             this.Name = "TilausForm";
-            this.Text = "Tilaus";
             this.kokoGB.ResumeLayout(false);
             this.tayteGB.ResumeLayout(false);
             this.tayteGB.PerformLayout();
@@ -677,6 +822,8 @@
             this.isojuomaGB.PerformLayout();
             this.pienijuomaGB.ResumeLayout(false);
             this.pienijuomaGB.PerformLayout();
+            this.ttGB.ResumeLayout(false);
+            this.ttGB.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -718,7 +865,7 @@
         private System.Windows.Forms.CheckBox pienifantaCB;
         private System.Windows.Forms.CheckBox pienpepemakeCB;
         private System.Windows.Forms.CheckBox pienpepeCB;
-        private System.Windows.Forms.Button kassaBT;
+        private System.Windows.Forms.Button tilausBT;
         private System.Windows.Forms.Button poistuBT;
         private System.Windows.Forms.Button tyhjennaBT;
         private System.Windows.Forms.CheckBox valkoCB;
@@ -730,5 +877,18 @@
         private System.Windows.Forms.ComboBox pizzaKokoCB;
         private System.Windows.Forms.GroupBox isojuomaGB;
         private System.Windows.Forms.GroupBox pienijuomaGB;
+        private System.Windows.Forms.GroupBox ttGB;
+        private System.Windows.Forms.CheckBox kkCB;
+        private System.Windows.Forms.CheckBox checkBox2;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.TextBox ptpTB;
+        private System.Windows.Forms.TextBox pnroTB;
+        private System.Windows.Forms.TextBox katuTB;
+        private System.Windows.Forms.TextBox nimiLB;
     }
 }
